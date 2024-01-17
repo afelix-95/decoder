@@ -10,5 +10,5 @@ python -m venv c:\path\to\myenv
 # The actual install command
 pip install numpy
 ```
-* The repository already has some encoded texts to run as an example.
+* The repository already has a probability matrix file and some encoded texts to run as an example.
 * The script should work with any encrypted text, as long as the cipher used to encrypt it was a simple substitution cipher, transposition cipher or substitution-plus-transposition product cipher.
