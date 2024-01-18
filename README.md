@@ -5,8 +5,8 @@ This project performs the decryption of classical ciphers using the Metropolis A
 * The script used in this project also needs the package `numpy`, which can be added with the following commands:
 ```
 # Best practice, use a virtual environment rather than install in the base env
-python -m venv c:\path\to\myenv
-.\Scripts\activate
+python -m venv venv
+.venv\Scripts\activate
 # The actual install command
 pip install numpy
 ```
